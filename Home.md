@@ -1,5 +1,15 @@
 # ISA-L Wiki
 
+## Ports/Repos
+* FreeBSD - http://www.freshports.org/devel/isa-l/
+    - To install the port: cd /usr/ports/devel/isa-l/ && make install clean
+    - To add the package: pkg install isa-l
+* Clear Linux - https://clearlinux.org/
+    - bundles: user-basic-dev, os-clr-on-clr-dev
+* Debian (unstable) - https://www.debian.org/releases/sid/
+    - https://packages.debian.org/sid/libisal2
+    - https://packages.debian.org/sid/libisal-dev
+
 ## Release planning 2.18
 * Compression ratio improvements
 * Base functions for multi-architecture support
