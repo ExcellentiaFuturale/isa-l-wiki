@@ -1,4 +1,4 @@
-# ISA-L Wiki
+﻿# ISA-L Wiki
 
 ## Ports/Repos
 * FreeBSD [ports](http://www.freshports.org/devel/isa-l/)
@@ -25,14 +25,14 @@
       [libisal2](http://packages.ubuntu.com/zesty/libisal2),
       [libisal-dev](http://packages.ubuntu.com/zesty/libisal-dev)
 
-## Release planning 2.18
+## v2.18 (March 2017)
 * Compression ratio improvements
 * Base functions for multi-architecture support
 * Multi-hash SHA-256 based
 * RAID AVX512 versions
 
 
-## Release 2.17 (December 2016)
+## v2.17 (December 2016)
 
 ISA-L v2.17 features summary (see release notes for details):
 * Fast Decompression (Inflate) - New.
