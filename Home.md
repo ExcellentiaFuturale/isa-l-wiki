@@ -31,7 +31,6 @@
 * Multi-hash SHA-256 based
 * RAID AVX512 versions
 
-
 ## v2.17 (December 2016)
 
 ISA-L v2.17 features summary (see release notes for details):
