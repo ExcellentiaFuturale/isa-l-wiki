@@ -1,4 +1,4 @@
-## Ports/Repos
+## Ports-Repos
 
 * FreeBSD (http://www.freshports.org/devel/isa-l/)
     - To install the port: `cd /usr/ports/devel/isa-l/ && make install clean`
