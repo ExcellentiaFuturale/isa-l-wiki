@@ -1,4 +1,4 @@
-## v2.19 ( ___Release planned for June 2017___) : 
+## v2.19 (Released June 2017) : 
 * Rolling Hash
 * Multi Buffer Hash improvements 
 * AES GCM : super small packet performance improvements 
