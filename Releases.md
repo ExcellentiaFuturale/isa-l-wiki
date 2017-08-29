@@ -1,8 +1,7 @@
 ## v2.20 (September 2017) : 
 * Multi Buffer Hashing : extend the max size to > 4 GB 
 * Add Non Temporal(NT) runtime versions of AES_GCM
-* Add Saturation Benchmark for determining the saturation point for each algorithm like MBH, CRC, AES and EC. 
-* MBH upstream to ZFS/Ceph (Integration)  
+* Add Saturation Benchmark for determining the saturation point for each algorithm like MBH, CRC, AES and EC.   
 
 ## v2.19 (Released June 2017) : 
 * Rolling Hash
