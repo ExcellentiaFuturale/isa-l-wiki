@@ -4,7 +4,7 @@
 
 [Releases](https://github.com/01org/isa-l/wiki/Releases)
 
-[Documentation]
+[Documentation](https://github.com/01org/isa-l/wiki/Documentation)
 
 
 
