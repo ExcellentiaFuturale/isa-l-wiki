@@ -20,6 +20,9 @@
     - yakkety/16.10 - uses ISA-L 2.16.0 - 
       [libisal2](http://packages.ubuntu.com/yakkety/libisal2),
       [libisal-dev](http://packages.ubuntu.com/yakkety/libisal-dev)
-    - zesty - uses ISA-L 2.17.0 -
+    - zesty/17.04 - uses ISA-L 2.17.0 -
       [libisal2](http://packages.ubuntu.com/zesty/libisal2),
       [libisal-dev](http://packages.ubuntu.com/zesty/libisal-dev)
+    - artful - uses ISA-L 2.19.0 -
+      [libisal2](https://packages.ubuntu.com/artful/libisal2),
+      [libisal-dev](https://packages.ubuntu.com/artful/libisal-dev)
