@@ -1,4 +1,8 @@
-## v2.20 (September 2017) : 
+## v2.21 (December 2017) : 
+* Level 2 Compression 
+* iSCSI CRC improvement 
+
+## v2.20 (Released September 2017) : 
 * Multi Buffer Hashing : extend the max size to > 4 GB 
 * Add Non Temporal(NT) runtime versions of AES_GCM
 * Add Saturation Benchmark for determining the saturation point for each algorithm like MBH, CRC, AES and EC.   
