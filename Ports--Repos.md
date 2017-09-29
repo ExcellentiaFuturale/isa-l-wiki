@@ -20,9 +20,7 @@
       [libisal-dev](https://packages.debian.org/jessie-backports/libisal-dev)
 * [Ubuntu](https://www.ubuntu.com/) [packages](http://packages.ubuntu.com)
     - To install: `sudo apt-get install libisal-dev`
-    - yakkety/16.10 - uses ISA-L 2.16.0 - 
-      [libisal2](http://packages.ubuntu.com/yakkety/libisal2),
-      [libisal-dev](http://packages.ubuntu.com/yakkety/libisal-dev)
+    - yakkety/16.10 - uses ISA-L 2.16.0 - libisal2, libisal-dev
     - zesty/17.04 - uses ISA-L 2.17.0 -
       [libisal2](http://packages.ubuntu.com/zesty/libisal2),
       [libisal-dev](http://packages.ubuntu.com/zesty/libisal-dev)
