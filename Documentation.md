@@ -6,3 +6,4 @@
 * [ISA-L Crypto v2.19 API document](https://01.org/sites/default/files/documentation/isa-l_open_src_crypto_2.19.0.pdf)
 
 ## Performance Report 
+* [ISA-L v2.19 Performance Report](https://01.org/sites/default/files/documentation/intel_isa-l_2.19_performance_report_0.pdf)
