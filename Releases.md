@@ -1,8 +1,6 @@
-## v2.22 (March 2018) : 
+## v2.22 (Released March 2018) : 
 * Level 3 Compression performance improvements
 * Better EC Examples
-* Example zlib interface
-* UserSpace compression utility
 
 ## v2.21 (Released December 2017) : 
 * Level 2 & 3 Compression Level added. Level 3 is currently only optimized for processors with AVX512 instructions.
