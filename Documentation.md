@@ -1,4 +1,5 @@
-## API Documentation 
+## API Documentation
+* [ISA-L v2.23 API document](https://01.org/sites/default/files/documentation/isa-l_api_2.23.0.pdf)
 * [ISA-L v2.21 API document](https://01.org/sites/default/files/documentation/isa-l_api_2.21.0.pdf)
 * [ISA-L Crypto v2.21 API document](https://01.org/sites/default/files/documentation/isa-l_crypto_api_2.21.0.pdf)
 * [ISA-L v2.20 API document](https://01.org/sites/default/files/documentation/isa-l_api_2.20.0.pdf)
