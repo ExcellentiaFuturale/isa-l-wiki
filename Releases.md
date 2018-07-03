@@ -1,24 +1,30 @@
-## v2.23 (June 2018) : 
-* Decompression Performance Improvements (Multi Byte Decode)
-* Zero Detect memory function
+## v2.24 (September 2018)
+* Small file compression performance improvements
+* igzip gzip/zlib header/trailer handling
+* igzip userspace tool/example
+* Zero detect memory function
 
-## v2.22 (Released March 2018) : 
+## v2.23 (Released June 2018)
+* Decompression Performance Improvements (Multi Byte Decode)
+* ~~Zero Detect memory function~~
+
+## v2.22 (Released March 2018)
 * Level 3 Compression performance improvements
 * Better EC Examples
 
-## v2.21 (Released December 2017) : 
+## v2.21 (Released December 2017)
 * Level 2 & 3 Compression Level added. Level 3 is currently only optimized for processors with AVX512 instructions.
 * New T10dif CRC and Copy function 
 * CRC32 iSCSI performance improvements 
 * Multi-buffer hash performance improvement for Intel Atom processors.
 * New base functions for multi-buffer hashes.
 
-## v2.20 (Released September 2017) : 
+## v2.20 (Released September 2017)
 * Multi Buffer Hashing : extend the max size to > 4 GB 
 * Add Non Temporal(NT) runtime versions of AES_GCM
 * Add Saturation Benchmark for determining the saturation point for each algorithm like MBH, CRC, AES and EC.   
 
-## v2.19 (Released June 2017) : 
+## v2.19 (Released June 2017)
 * Rolling Hash
 * Multi Buffer Hash improvements 
 * AES GCM : super small packet performance improvements 
