@@ -6,7 +6,6 @@
 
 ## v2.23 (Released June 2018)
 * Decompression Performance Improvements (Multi Byte Decode)
-* ~~Zero Detect memory function~~
 
 ## v2.22 (Released March 2018)
 * Level 3 Compression performance improvements
