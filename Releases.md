@@ -1,4 +1,8 @@
-## v2.24 (September 2018)
+## v2.25 (December 2018)
+* Compression on random file performance improvements
+* Multi-arch autoconf
+
+## v2.24 (Released September 2018)
 * Small file compression performance improvements
 * igzip gzip/zlib header/trailer handling
 * igzip userspace tool/example
