@@ -1,5 +1,13 @@
-## v2.25 (December 2018)
+## v2.27 (June 2019)
+* SMx functions
+* Threaded igzip
+
+## v2.26 (March 2019)
+* Adler32 function
+
+## v2.25 (Released December 2018)
 * Compression on random file performance improvements
+* Additional small file compression improvements
 * Multi-arch autoconf
 
 ## v2.24 (Released September 2018)
