@@ -1,6 +1,8 @@
-## v2.27 (June 2019)
-* SMx functions
+## ISA-L v2.27 (Released June 2019)
 * Threaded igzip
+
+## ISA-L Crypto v2.22 (Next crypto release)
+* SMx functions
 
 ## v2.26 (Released March 2019)
 * Adler32 function
