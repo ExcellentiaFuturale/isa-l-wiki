@@ -1,3 +1,6 @@
+## ISA-L v2.28 (September 2019)
+* CRC performance improvements for next gen CPU
+
 ## ISA-L v2.27 (Released June 2019)
 * Threaded igzip
 
