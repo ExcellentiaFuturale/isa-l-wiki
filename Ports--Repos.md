@@ -26,9 +26,11 @@
 * [Ubuntu](https://www.ubuntu.com/) [packages](http://packages.ubuntu.com)
     - To install: `sudo apt-get install libisal-dev`
     - yakkety/16.10 - uses ISA-L 2.16.0 - libisal2, libisal-dev
-    - zesty/17.04 - uses ISA-L 2.17.0 -
-      [libisal2](http://packages.ubuntu.com/zesty/libisal2),
-      [libisal-dev](http://packages.ubuntu.com/zesty/libisal-dev)
-    - artful - uses ISA-L 2.19.0 -
-      [libisal2](https://packages.ubuntu.com/artful/libisal2),
-      [libisal-dev](https://packages.ubuntu.com/artful/libisal-dev)
+    - zesty/17.04 - uses ISA-L 2.17.0 - libisal2, libisal-dev
+    - artful - uses ISA-L 2.19.0 - libisal2, libisal-dev
+    - bionic/18.04lts - uses ISA-L 2.21.0 -
+      [libisal2](https://packages.ubuntu.com/bionic/libisal2),
+      [libisal-dev](https://packages.ubuntu.com/bionic/libisal-dev)
+    - disco/19.04 - uses ISA-L 2.25.0 -
+      [libisal2](https://packages.ubuntu.com/disco/libisal2),
+      [libisal-dev](https://packages.ubuntu.com/disco/libisal-dev)
