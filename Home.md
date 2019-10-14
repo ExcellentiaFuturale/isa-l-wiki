@@ -1,10 +1,7 @@
 ﻿# ISA-L Wiki
 
-[Ports\Repos](https://github.com/01org/isa-l/wiki/Ports--Repos)
+[Ports\Repos](https://github.com/intel/isa-l/wiki/Ports--Repos)
 
-[Releases](https://github.com/01org/isa-l/wiki/Releases)
+[Releases](https://github.com/intel/isa-l/wiki/Releases)
 
-[Documentation](https://github.com/01org/isa-l/wiki/Documentation)
-
-
-
+[Documentation](https://github.com/intel/isa-l/wiki/Documentation)
