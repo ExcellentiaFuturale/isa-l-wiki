@@ -1,11 +1,19 @@
-## ISA-L v2.28 (September 2019)
+## ISA-L v2.29 (January 2020)
+* EC performance improvements for 6+ parity
+* CRC32 and CRC16 next gen CPU
+
+## ISA-L Crypto v2.23 (December 2019)
+* AES-GCM for next gen CPU
+
+## ISA-L v2.28 (Released October 2019)
 * CRC performance improvements for next gen CPU
+
+## ISA-L Crypto v2.22 (Released August 2019)
+* Multi-buffer SM3 functions. Experimental base functions only.
+* Multi-architecture support
 
 ## ISA-L v2.27 (Released June 2019)
 * Threaded igzip
-
-## ISA-L Crypto v2.22 (Next crypto release)
-* SMx functions
 
 ## v2.26 (Released March 2019)
 * Adler32 function
