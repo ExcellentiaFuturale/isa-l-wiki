@@ -1,5 +1,8 @@
 ## Ports-Repos
 
+* [Anaconda](https://www.anaconda.com)
+    - To install: `conda install -c conda-forge isa-l`
+    - Packages - [isa-l](https://anaconda.org/conda-forge/isa-l)
 * [Arch](https://www.archlinux.org/) [AUR](https://aur.archlinux.org/)
     - To install follow [AUR wiki](https://wiki.archlinux.org/index.php/Arch_User_Repository#Installing_packages)
     - Packages -
