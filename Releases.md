@@ -1,9 +1,9 @@
+## ISA-L Crypto v2.23 (Planned for 2H’20)
+* AES-GCM, AES-XTS for next gen CPU
+
 ## ISA-L v2.29 (Released February 2020)
 * EC performance improvements for 6+ parity
 * CRC32 and CRC16 next gen CPU
-
-## ISA-L Crypto v2.23 (Released December 2019)
-* AES-GCM for next gen CPU
 
 ## ISA-L v2.28 (Released October 2019)
 * CRC performance improvements for next gen CPU
