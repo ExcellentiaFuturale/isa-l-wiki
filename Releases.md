@@ -1,5 +1,6 @@
-## ISA-L Crypto v2.23 (Planned for 2H’20)
+## ISA-L Crypto v2.23 (Released September 2020)
 * AES-GCM, AES-XTS for next gen CPU
+* New optimized versions of multi-buffer SM3 hashing.
 
 ## ISA-L v2.29 (Released February 2020)
 * EC performance improvements for 6+ parity
