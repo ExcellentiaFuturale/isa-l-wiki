@@ -1,3 +1,15 @@
+## ISA-L v2.30 (Released November 2020)
+* Igzip compression/decompression enhancements.
+  - New functions for compression with dictionary acceleration.
+  - New static level 0 header decode tables. Accelerates decompressing small files.
+  - New feature for igzip cli tool: support for concatenated .gz files.
+* CRC Improvements
+  - New vclmul version of crc32_iscsi().
+  - Updates for aarch64.
+* Other fixes
+  - Intel CET support.
+  - Windows nasm support.
+
 ## ISA-L Crypto v2.23 (Released September 2020)
 * AES-GCM, AES-XTS for next gen CPU
 * New optimized versions of multi-buffer SM3 hashing.
