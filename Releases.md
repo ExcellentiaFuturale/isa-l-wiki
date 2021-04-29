@@ -1,3 +1,9 @@
+## ISA-L Crypto v2.24 (Released April 2021)
+
+* New optimized version of AES-CBC decode
+* New AVX2, 8 lane version of multi-buffer SM3
+* Added support for big-endian architectures
+
 ## ISA-L v2.30 (Released November 2020)
 * Igzip compression/decompression enhancements.
   - New functions for compression with dictionary acceleration.
