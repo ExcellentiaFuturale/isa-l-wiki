@@ -26,6 +26,9 @@
 * FreeBSD [ports](http://www.freshports.org/devel/isa-l/)
     - To install the port: `cd /usr/ports/devel/isa-l/ && make install clean`
     - To add the package: `pkg install isa-l`
+* [Mac Homebrew](https://brew.sh)
+    - To install: `brew install isa-l`
+	- Packages [isa-l](https://formulae.brew.sh/formula/isa-l)
 * [Ubuntu](https://www.ubuntu.com/) [packages](http://packages.ubuntu.com)
     - To install: `sudo apt-get install libisal-dev`
     - yakkety/16.10 - uses ISA-L 2.16.0 - libisal2, libisal-dev
