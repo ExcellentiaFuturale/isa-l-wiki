@@ -10,3 +10,7 @@
     [GATK](https://github.com/broadinstitute/gatk) and
     [HTSJDK](https://github.com/samtools/htsjdk). Includes a deflater and
     inflater that use the ISA-L library.
+* [Go](https://go.dev/)
+  - [ISALgo](https://github.com/intel/ISALgo) This ISA-L wrapper allows Go applications
+    to make use of the optimized low-level functions provided by the Intel(R) ISA-L library 
+    including gzip, compression and decompression.
